@@ -23,8 +23,8 @@ public class TestGreeter {
    @Test
    public void testGreeter() 
    {
-      g.setName("World");
-      assertEquals(g.getName(),"World");
+      g.setName("Hello World");
+      assertEquals(g.getName(),"Hello World");
       assertEquals(g.sayHello(),"Hello World!");
    }
    
