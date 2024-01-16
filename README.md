@@ -350,4 +350,4 @@ Now if you run `gradle build`, Gradle should resolve the Joda Time dependency fr
 
 [![Board Status](https://dev.azure.com/vishklearning/e8d08ea9-f6c1-4227-b7d3-0a5ac64b6a6e/f8413507-fae9-4af0-b2e2-35ee8a8eca33/_apis/work/boardbadge/4d149e79-3af2-47de-8344-84564c6c5c0e)](https://dev.azure.com/vishklearning/e8d08ea9-f6c1-4227-b7d3-0a5ac64b6a6e/_boards/board/t/f8413507-fae9-4af0-b2e2-35ee8a8eca33/Microsoft.RequirementCategory/)
 
-https://dev.azure.com/vishklearning/vishklearning/_boards/board/t/vishklearning%20Team/Issues/?workitem=3
+
